@@ -4,11 +4,13 @@ REM *******************************************************
 
 @echo off
 SETLOCAL
-REM *******************************************************
-REM ********* Retrieve filepath of the usermat to compile **
-REM ********* You need to pass file information when calling **
-REM ********* this script from Notepad++ **********************
-REM *******************************************************
+REM *************************************************************
+REM ********* Retrieve filepath of the usermat to compile *******
+REM ********* You need to pass file information when calling ****
+REM ********* this script from Notepad++ $(FULL_CURRENT_PATH) ***
+REM ********* D:\compileUsermat.bat $(FULL_CURRENT_PATH) ********
+REM ********* Run the above command line from Notepad++ *********
+REM *************************************************************
 
 Set filename=%1
 For %%A in ("%filename%") do (
