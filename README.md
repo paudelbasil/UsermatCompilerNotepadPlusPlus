@@ -4,4 +4,15 @@
 #     provided that you have the ability to generate/compile custom usermat
 #
 # Enjoy !
-
+# >>>>>>>>>>>>>>>>>>>>>  INSTRUCTIONS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# In Notepad++ Click 
+#       1. Click Run Menu => Run...
+#       2. In the textbox field, type: {Script_Location_Path}\compileUsermat.bat $(FULL_CURRENT_PATH)
+#       3. Click Save (to create a menu item for the script)
+#       4. Choose a combination for shortcut, Ctrl+Shift+C
+#
+# Next time, you can just use the shortcut key combination to compile the usermat.
+# Make sure ANSYS is not running, the compiler CANNOT link if its running.
+#
+# >>>>>>>>>>>>>>>>>>>>>  END INSTRUCTIONS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#
