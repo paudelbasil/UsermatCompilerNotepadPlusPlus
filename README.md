@@ -5,6 +5,7 @@
 #
 # Enjoy !
 # >>>>>>>>>>>>>>>>>>>>>  INSTRUCTIONS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# Download the batch script and save it to a folder you have permission.
 # In Notepad++ Click 
 #       1. Click Run Menu => Run...
 #       2. In the textbox field, type (without quote, and replace the PATH_TO_FILE): 
