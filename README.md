@@ -7,7 +7,8 @@
 # >>>>>>>>>>>>>>>>>>>>>  INSTRUCTIONS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 # In Notepad++ Click 
 #       1. Click Run Menu => Run...
-#       2. In the textbox field, type: {Script_Location_Path}\compileUsermat.bat $(FULL_CURRENT_PATH)
+#       2. In the textbox field, type (without quote, and replace the PATH_TO_FILE): 
+#             "{PATH_TO_FILE}\compileUsermat.bat $(FULL_CURRENT_PATH)"
 #       3. Click Save (to create a menu item for the script)
 #       4. Choose a combination for shortcut, Ctrl+Shift+C
 #
